@@ -1,0 +1,10 @@
+
+__pycache__/
+
+test/
+
+train/
+
+.DS_Store
+
+starterskit/.ipynb_checkpoints/
