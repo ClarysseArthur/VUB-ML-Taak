@@ -1,1 +1,2 @@
 # VUB-ML-Taak
+[![wakatime](https://wakatime.com/badge/user/23a8b374-828d-46e1-9eb2-83a5387619e9/project/838312f3-5e2c-48a6-99ae-57d8b4aaee5f.svg)](https://wakatime.com/badge/user/23a8b374-828d-46e1-9eb2-83a5387619e9/project/838312f3-5e2c-48a6-99ae-57d8b4aaee5f)
